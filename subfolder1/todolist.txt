@@ -1,9 +1,0 @@
-Git Tutorial for beginners : https://www.youtube.com/watch?v=eeuNAIZoWRU
-Git : https://www.simplilearn.com/skillup-search?sortBy=Relevance&tag=Git&category=DevOps
-
-intro to html : https://www.simplilearn.com/free-html-course-for-beginners-skillup
-intro to frontend : https://www.simplilearn.com/front-end-developer-free-course-skillup?tag=Git
-
-linux/unix durgasoft : https://www.youtube.com/playlist?list=PLd3UqWTnYXOloH0vWBs4BtSbP84WcC2NY
-
-
